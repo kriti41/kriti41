@@ -33,14 +33,17 @@
 ### 🖼 Image Search Engine: Visual Similarity Search using CV & FAISS  
 https://github.com/kriti41/Image-Search-Engine  
 
-### 📄 DocuRAG: Scalable Retrieval-Augmented Question Answering System  
-https://github.com/kriti41/rag-fastapi
+### 🖼 AI Cybersecureapp
+https://github.com/kriti41/AICyberSecureApp
 
 ### 🎨 VisionaryText – Anime-Style Text-to-Image Generator  
 https://github.com/kriti41/visionary_text 
 
 ### 🤖 AI Marketing Decision System  
 https://github.com/kriti41/AI-Marketing-decision-engine
+
+### 📄 DocuRAG: Scalable Retrieval-Augmented Question Answering System  
+https://github.com/kriti41/rag-fastapi
 
 ---
 
